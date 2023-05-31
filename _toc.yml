@@ -1,0 +1,22 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+  - caption: Math
+    chapters:
+    - file: calculus
+    - file: linear
+    - file: discrete
+  - caption: Computer Science
+    chapters:
+    - file: java
+    - file: python
+    - file: web
+    - file: c
+    - file: datastructures
+    - file: architecture
+  - caption: Physics
+    chapters:
+    - file: physics
